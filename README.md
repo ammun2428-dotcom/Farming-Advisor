@@ -83,21 +83,6 @@ git clone https://github.com/yourusername/Farming-Advisor-Pro.git
 
 Simply open `index.html` in your browser.
 
----
-
-## 🔑 API Setup
-
-Replace the API key in `app.js`:
-
-```javascript
-const API_KEY = "YOUR_API_KEY";
-```
-
-Get a free API key from:
-
-https://openweathermap.org/api
-
----
 
 ## 📸 Screenshots
 
@@ -132,7 +117,6 @@ https://openweathermap.org/api
 
 B.Tech Student
 
-Electronics and Communication Engineering
 
 ---
 
